@@ -1,4 +1,4 @@
-name: sqlfluff with reviewdog
+name: test sqlfluff with reviewdog
 on:
   pull_request:
 jobs:
