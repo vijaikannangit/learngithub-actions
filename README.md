@@ -16,9 +16,10 @@ Step 7 - Goto Repo main page and click “Actions” tab
 Step 8 - Select the workflow from left sidebar and check the logs and results
 ```
 
-This was prepared using [GitHub Pages](https://pages.github.com/).
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a (tentacle.]https://in.images.search.yahoo.com/search/images;_ylt=Awr1QJCXmUtkFLYETD27HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj?p=%2Fassets%2Fimages%2Felectrocat.png&fr=mcafee#id=129&iurl=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F39600000%2FTrophy-Asset-inanimate-insanity-39621580-793-766.png&action=click)
+This was to view whether link been displayed :- [GitHub Pages](https://pages.github.com/).
 
 
-Just tried writing Readme.md :+1: :desktop_computer:
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+Just tried writing Readme.md with emojis  :+1:   :desktop_computer:
