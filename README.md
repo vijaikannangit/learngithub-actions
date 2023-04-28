@@ -4,8 +4,9 @@
 **Workflow-Actions-YAML**
 
 Action Steps are:
+
 ```
-Step 1 - Signup and Login to GitHub.com 
+**Step 1** - Signup and Login to GitHub.com 
 Step 2 - Create a new Repository 
 Step 3 - In the repo create a folder .github/workflows 
 Step 4 - In the folder create a YAML file with .yml extension 
