@@ -19,7 +19,8 @@ Step 8 - Select the workflow from left sidebar and check the logs and results
 This was to view whether link been displayed :- [GitHub Pages](https://pages.github.com/).
 
 
+Just tried writing Readme.md with emojis  :+1:   :desktop_computer:
+
+## To Display Images
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-
-Just tried writing Readme.md with emojis  :+1:   :desktop_computer:
