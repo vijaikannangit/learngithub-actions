@@ -1,7 +1,7 @@
 name: Publish Python distributions to TestPyPI
-on: push
-# on:
-#   workflow_dispatch
+#on: push
+ on:
+   workflow_dispatch
 jobs:
   build-n-publish-testpypi:
     name: Job - Build and publish Python distributions to TestPyPI
