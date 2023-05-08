@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+
 try:
    import pypandoc
    long_description = pypandoc.convert_file('README.md', 'rst')
