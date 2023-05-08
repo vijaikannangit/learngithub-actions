@@ -44,10 +44,11 @@ jobs:
 
 
       - name: Publish distribution(package) to PyPI
-        uses: pypa/gh-action-pypi-publish@master
+        uses: pypa/gh-action-pypi-publish@release/v1
         with:
           user: __token__
-          password: ${{ secrets.PYPI_SAM_PROJ_API_TOKEN }}          
+          password: ${{ secrets.PYPI_SAM_PROJ_API_TOKEN }}
+          repository-url: https://pypi.org/legacy/          
           #skip_existing: true
 
       - name: Create GitHub Release
