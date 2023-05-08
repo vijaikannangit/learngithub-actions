@@ -1,4 +1,4 @@
-name: Vij-hello-world
+name: Vij-hello-world_print
 on:
   workflow_dispatch
 jobs:
